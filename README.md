@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Arpan Goyal — MERN Stack Developer
 
-<!--
-**arpn-Goyal/arpn-Goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building modern, scalable web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔐 [MERN Auth App](https://github.com/yourname/mern-auth-app) – User registration, login, JWT protection
+- 💬 Chat App (Coming soon...) – Real-time chat using Socket.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Frontend**: React.js, JavaScript, TailwindCSS  
+**Backend**: Node.js, Express.js, MongoDB  
+**Others**: Git, GitHub, REST APIs, JWT, Socket.io  
+
+## 📫 Let's Connect
+- [LinkedIn]= www.linkedin.com/in/arpan-goyal-9a71b8287
+- 📧 arpangoyal95@gmail.com
