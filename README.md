@@ -7,7 +7,7 @@ I'm passionate about building modern, scalable web applications that solve real-
 - 💬 Chat App (Coming soon...) – Real-time chat using Socket.io
 
 ## 🛠 Tech Stack
-**Frontend**: React.js, JavaScript, TailwindCSS  
+**Frontend**: React.js, Redux (State Management Library), Context API, JavaScript  
 **Backend**: Node.js, Express.js, MongoDB  
 **Others**: Git, GitHub, REST APIs, JWT, Socket.io  
 
