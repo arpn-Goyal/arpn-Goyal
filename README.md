@@ -14,7 +14,18 @@
 - 🔥 Open to learning and exploring **emerging technologies**.  
 
 ---
+## 🔥 My Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpn-Goyal&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpn-Goyal&layout=compact&langs_count=8&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arpn-Goyal&theme=tokyonight" height="160" />
+</p>
+
+---
 ## 🛠️ Languages and Tools  
 
 <p>
