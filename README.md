@@ -17,12 +17,11 @@
 ## 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpn-Goyal&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpn-Goyal&layout=compact&langs_count=8&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpn-Goyal&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&rank_icon=github&include_all_commits=false&count_private=false" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arpn-Goyal&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=arpn-Goyal&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun" height="160" />
 </p>
 
 ---
