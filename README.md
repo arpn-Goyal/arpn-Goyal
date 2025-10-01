@@ -9,7 +9,7 @@
 ## 💻 About Me  
 
 - 🚀 Software Developer passionate about **problem-solving** and building **scalable applications**.  
-- ⚡ Strong foundation in **Data Structures, Algorithms, and OOP**.  
+- ⚡ Strong foundation in **Data Structures, Algorithms, and OOP and C++**.  
 - 🌱 Skilled in **MERN stack** with hands-on experience in full-stack project development.  
 - 🔥 Open to learning and exploring **emerging technologies**.  
 
