@@ -1,6 +1,6 @@
 # Hi 👋 I'm Arpan Goyal  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arpan%20Goyal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-goyal-9a71b8287/)](www.linkedin.com/in/arpangoyal25) 
+[![Linkedin Badge](https://img.shields.io/badge/-Arpan%20Goyal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpan-goyal-9a71b8287/)](https://www.linkedin.com/in/arpangoyal25) 
 [![GitHub Badge](https://img.shields.io/badge/-arpn--Goyal-black?style=flat&logo=github&logoColor=white&link=https://github.com/arpn-Goyal)](https://github.com/arpn-Goyal) 
 [![Gmail Badge](https://img.shields.io/badge/-arpangoyal95@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arpangoyal95@gmail.com)](mailto:arpangoyal95@gmail.com)  
 
