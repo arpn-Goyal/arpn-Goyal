@@ -6,12 +6,21 @@
 
 ---
 
-## 💻 About Me  
+## 💻 About Me
 
-- 🚀 Software Developer passionate about **problem-solving** and building **scalable applications**.  
-- ⚡ Strong foundation in **Data Structures, Algorithms, and OOP and C++**.  
-- 🌱 Skilled in **MERN stack** with hands-on experience in full-stack project development.  
-- 🔥 Open to learning and exploring **emerging technologies**.  
+- 🚀 Software Developer (Full Stack) with **1+ year of experience** building scalable web applications.
+- 🏥 At **Indiventy**, I worked on an internal **Healthcare Management System** used by hospital staff to manage patient records, insurance data, and billing.
+- 🧪 Started my career as a **QA Engineer** at Panorama Software Solutions, which taught me to think about quality, edge cases, and reliability.
+- ⚡ Strong foundation in **Data Structures, Algorithms, OOP, and C++** (500+ problems solved on LeetCode & GeeksforGeeks).
+- 🌱 Skilled in the **MERN stack**: React.js, Node.js, Express.js, MongoDB, with secure **JWT authentication** and **role-based access control**.
+- 🔥 Open to **SDE / Full-Stack roles** and internships.
+
+---
+## 📚 Currently Learning
+
+- 🤖 **Machine Learning**
+- 🏗️ **System Design**
+- 🔷 **TypeScript**
 
 ---
 ## 🔥 My Stats
@@ -25,39 +34,46 @@
 </p>
 
 ---
-## 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools
 
 <p>
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> 
-  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="40" title="TailwindCSS"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="40" title="TailwindCSS"/>
 
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 
   <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> 
-  <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="40" title="Postman"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="40" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
+
+---
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/arpangoyal25/]
+- 🌐 Portfolio: [https://arpangoyal.unocoders.com/]
+- 📧 Email: [arpangoyal95@gmail.com]
 
 ---
 
