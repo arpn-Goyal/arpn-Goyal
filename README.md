@@ -34,7 +34,7 @@
 </p>
 
 ---
-## 🛠️ Languages and Tools
+## 💻🛠️ My favourites Languages and Tools
 
 <p>
   <!-- Languages -->
